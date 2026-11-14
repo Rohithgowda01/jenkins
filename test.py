@@ -1,1 +1,1 @@
-print("Hello mommy hw r u")
+print("heyyy")
